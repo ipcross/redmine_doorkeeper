@@ -1,0 +1,4 @@
+.list.oauth-applications {
+  width: 900px;
+}
+#admin-menu a.oauth-applications{ background-image: url(../images/oauth_clients.png);}
